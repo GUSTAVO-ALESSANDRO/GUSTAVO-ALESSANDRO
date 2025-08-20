@@ -42,3 +42,6 @@ Tenho afinidade com tecnologias como React, React Native, Express e Node.js, al√
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GUSTAVO-ALESSANDRO/GUSTAVO-ALESSANDRO/output/pacman-contribution-graph.svg" />
 </picture>
 
+__generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)__
+
+
