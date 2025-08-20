@@ -9,13 +9,11 @@ Olá!👋 Sou o Gustavo Alessandro de Souza Sabino, tenho 20 anos e sou natural 
 
 Atualmente, participo do projeto VetDex 🐾, voltado ao cadastro e visualização de doenças animais para a veterinária da Unilavras, sob orientação do professor João Paulo. Atuo no desenvolvimento mobile com React Native e também no back-end com Node.js e Fastify.
 
-Tenho afinidade com tecnologias como React, React Native, Express e Node.js, além de conhecimentos em Java e Python. Pretendo seguir carreira como desenvolvedor web ou mobile.
-
-Me considero uma pessoa esforçada, dedicada, responsável e colaborativa. Fora da tecnologia, sou apaixonado por futebol, tanto como jogador quanto como torcedor.
+Tenho afinidade com tecnologias como React, React Native, Express e Node.js, além de alguns conhecimentos em Java e Python. Pretendo seguir carreira como desenvolvedor web ou mobile e me considero uma pessoa esforçada, dedicada, responsável e colaborativa. Fora da tecnologia, sou apaixonado por futebol, tanto como jogador quanto como torcedor.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GUSTAVO-ALESSANDRO&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUSTAVO-ALESSANDRO&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUSTAVO-ALESSANDRO&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" height="180em"/>
 </p>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
