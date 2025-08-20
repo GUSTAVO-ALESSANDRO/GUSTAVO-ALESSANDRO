@@ -1,4 +1,13 @@
 # Gustavo Alessandro
+
+Olá!👋 Sou o Gustavo Alessandro de Souza Sabino, tenho 20 anos e sou natural de Lavras, MG. Estudo Ciência da Computação na UFLA (4º de 8 períodos) e estou concluindo o curso técnico em Análise e Desenvolvimento de Sistemas no UNILAVRAS (4º de 4 períodos), ambos iniciados em 2024. Concluí o ensino médio no Colégio Nossa Senhora de Lourdes, onde conquistei bolsas para ambas as formações.
+
+Atualmente, participo do projeto VetDex 🐾, voltado ao cadastro e visualização de doenças animais para a veterinária da Unilavras, sob orientação do professor João Paulo. Atuo no desenvolvimento mobile com React Native e também no back-end com Node.js e Fastify.
+
+Tenho afinidade com tecnologias como React, React Native, Express e Node.js, além de conhecimentos em Java e Python. Pretendo seguir carreira como desenvolvedor web ou mobile.
+
+Me considero uma pessoa esforçada, dedicada, responsável e colaborativa. Fora da tecnologia, sou apaixonado por futebol, tanto como jogador quanto como torcedor.
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gualessandro2017@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alessandro-de-souza-sabino-3167a1341)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.alessandro07/)
@@ -15,6 +24,7 @@ __💻 Estudante de Tecnologia__ - início em 2024.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Expo Go](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,13 +32,6 @@ __💻 Estudante de Tecnologia__ - início em 2024.
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-Olá!👋 Sou o Gustavo Alessandro de Souza Sabino, tenho 20 anos e sou natural de Lavras, MG. Estudo Ciência da Computação na UFLA (4º de 8 períodos) e estou concluindo o curso técnico em Análise e Desenvolvimento de Sistemas no UNILAVRAS (4º de 4 períodos), ambos iniciados em 2024. Concluí o ensino médio no Colégio Nossa Senhora de Lourdes, onde conquistei bolsas para ambas as formações.
-
-Atualmente, participo do projeto VetDex 🐾, voltado ao cadastro e visualização de doenças animais para a veterinária da Unilavras, sob orientação do professor João Paulo. Atuo no desenvolvimento mobile com React Native e também no back-end com Node.js e Fastify.
-
-Tenho afinidade com tecnologias como React, React Native, Express e Node.js, além de conhecimentos em Java e Python. Pretendo seguir carreira como desenvolvedor web ou mobile.
-
-Me considero uma pessoa esforçada, dedicada, responsável e colaborativa. Fora da tecnologia, sou apaixonado por futebol, tanto como jogador quanto como torcedor.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GUSTAVO-ALESSANDRO&show_icons=true&theme=tokyonight" height="180em"/>
