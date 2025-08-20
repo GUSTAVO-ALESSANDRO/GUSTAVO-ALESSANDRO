@@ -35,3 +35,10 @@ Tenho afinidade com tecnologias como React, React Native, Express e Node.js, al�
 - ✉️ Email: [gualessandro2017@gmail.com](mailto:gualessandro2017@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gustavo-alessandro-de-souza-sabino-3167a1341](https://www.linkedin.com/in/gustavo-alessandro-de-souza-sabino-3167a1341)
 - 📸 Instagram: [@gustavo.alessandro07](https://www.instagram.com/gustavo.alessandro07/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GUSTAVO-ALESSANDRO/GUSTAVO-ALESSANDRO/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GUSTAVO-ALESSANDRO/GUSTAVO-ALESSANDRO/output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GUSTAVO-ALESSANDRO/GUSTAVO-ALESSANDRO/output/pacman-contribution-graph.svg" />
+</picture>
+
