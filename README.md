@@ -1,5 +1,10 @@
 # Gustavo Alessandro
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gualessandro2017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alessandro-de-souza-sabino-3167a1341)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.alessandro07/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GUSTAVO-ALESSANDRO)
+
 Olá!👋 Sou o Gustavo Alessandro de Souza Sabino, tenho 20 anos e sou natural de Lavras, MG. Estudo Ciência da Computação na UFLA (4º de 8 períodos) e estou concluindo o curso técnico em Análise e Desenvolvimento de Sistemas no UNILAVRAS (4º de 4 períodos), ambos iniciados em 2024. Concluí o ensino médio no Colégio Nossa Senhora de Lourdes, onde conquistei bolsas para ambas as formações.
 
 Atualmente, participo do projeto VetDex 🐾, voltado ao cadastro e visualização de doenças animais para a veterinária da Unilavras, sob orientação do professor João Paulo. Atuo no desenvolvimento mobile com React Native e também no back-end com Node.js e Fastify.
@@ -8,16 +13,10 @@ Tenho afinidade com tecnologias como React, React Native, Express e Node.js, al�
 
 Me considero uma pessoa esforçada, dedicada, responsável e colaborativa. Fora da tecnologia, sou apaixonado por futebol, tanto como jogador quanto como torcedor.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gualessandro2017@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alessandro-de-souza-sabino-3167a1341)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.alessandro07/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GUSTAVO-ALESSANDRO)
-
-__💻 Estudante de Tecnologia__ - início em 2024.
-
-- **Bacharelado em Ciências da Computação (UFLA)** - semestre 4/8.
-
-- **Técnico em Análise e Desenvolvimento de Sistemas(UNILAVRAS)** - semestre 4/4.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GUSTAVO-ALESSANDRO&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUSTAVO-ALESSANDRO&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,11 +31,6 @@ __💻 Estudante de Tecnologia__ - início em 2024.
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GUSTAVO-ALESSANDRO&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUSTAVO-ALESSANDRO&layout=compact&theme=tokyonight" height="180em"/>
-</p>
 
 ## 📫 Contato
 
